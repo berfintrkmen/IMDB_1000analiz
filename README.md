@@ -1,0 +1,2 @@
+# IMDB_1000analiz
+ımdb_top_1000 analizi,görselleştirme,karşılaştırma
